@@ -1,0 +1,14 @@
+# Build
+build/
+chip8
+
+# Objects
+*.o
+*.d
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
