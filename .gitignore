@@ -4,6 +4,11 @@ chip8
 chip8 *
 cpu6502
 test_cpu6502
+nes/nes
+
+# ROMs
+*.nes
+*.bin
 
 # Objects
 *.o
