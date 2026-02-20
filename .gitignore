@@ -1,6 +1,9 @@
 # Build
 build/
 chip8
+chip8 *
+cpu6502
+test_cpu6502
 
 # Objects
 *.o
@@ -12,3 +15,6 @@ chip8
 # IDE
 .vscode/
 .idea/
+
+# Project config
+CLAUDE.md
