@@ -15,6 +15,3 @@ test_cpu6502
 # IDE
 .vscode/
 .idea/
-
-# Project config
-CLAUDE.md
